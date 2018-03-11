@@ -15,6 +15,8 @@ import { EditDataPage } from '../pages/edit-data/edit-data';
 @NgModule({
   declarations: [
     MyApp,
+    AddDataPage,
+    EditDataPage,
     HomePage
   ],
   imports: [
